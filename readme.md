@@ -194,7 +194,7 @@ The following table provides an overview of the API endpoints:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ai-quiz-backend.git
+    git clone https://github.com/vidja-abhay/AI-QUIZ.git
     cd ai-quiz-backend
     ```
 
